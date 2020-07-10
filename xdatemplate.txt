@@ -1,0 +1,25 @@
+[IMG="CartelLogo"]https://raw.githubusercontent.com/ProjectCartel/stuff/master/20200526_181251.png[/IMG]
+[B][CENTER][SIZE="7"]Cartel Project[/SIZE][/CENTER][/B]
+
+[CENTER][CODE]/*
+* Your warranty is now void.
+*
+* We're not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at us for messing up your device, we will laugh at you.
+*
+*/[/CODE][/CENTER]
+[CENTER][SIZE="4"]Cartel Project is a minimal, simple and clean kernel for the perfect balance between performance and battery life[/SIZE].[/CENTER]
+
+[B][U][CENTER][COLOR="red"][SIZE="4"]Upstreamed with[/SIZE][/COLOR][/CENTER][/U][/B]
+[CENTER][I]Linux Upstream | Latest CAF Tag | Latest WLAN Driver Tag | Latest Sound Driver Tag[/I][/CENTER]
+
+[B][U][CENTER][URL="http://sourceforge.net/projects/malvibuilds/files/Cartel-10"][SIZE="3"]Download![/SIZE][/URL][/CENTER][/U][/B]
+
+[CENTER][U][B]Steps to Install[/B][/U]
+[CODE]Backup boot.img and /vendor/lib/modules folder if you want to go back
+Flash Zip file with any twrp based recovery
+Flash Magisk Zip
+Reboot and Enjoy[/CODE] [/CENTER]
