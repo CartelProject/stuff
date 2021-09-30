@@ -1,3 +1,5 @@
-**Cartel Project related Files.**
+**Cartel Project documentation.**
 =================================
-WIP
+
+- XDA thread related documentation is present.
+- To begin contribution, clone this repository, and make changes, then PR and tag @gaganmalvi.
