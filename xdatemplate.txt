@@ -1,4 +1,4 @@
-[IMG="CartelLogo"]https://raw.githubusercontent.com/ProjectCartel/stuff/master/20200526_181251.png[/IMG]
+[IMG="CartelLogo"]https://raw.githubusercontent.com/ProjectCartel/stuff/master/old/20200526_181251.png[/IMG]
 [B][CENTER][SIZE="7"]Cartel Project[/SIZE][/CENTER][/B]
 
 [CENTER][CODE]/*
