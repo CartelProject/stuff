@@ -1,4 +1,4 @@
-[!Cartel Project](MacBook%20-%202.png)
+![Cartel Project](MacBook%20-%202.png)
 
 **Cartel Project documentation.**
 =================================
